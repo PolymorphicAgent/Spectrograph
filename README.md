@@ -1,5 +1,8 @@
 # Spectrograph
 
+_*Please note that this project is in the infant stages of development.*_
+
+
 _*GOALS:*_
 - To visualize sound in a very customizable manner.
     - i.e. customizable frequency range, colors, etc.
